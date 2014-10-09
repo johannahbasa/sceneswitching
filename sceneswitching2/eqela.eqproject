@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# sceneswitching2
+#
+
+projectname: sceneswitching2
+vendorid: com.johannahbasa
+mainmodule: com.johannahbasa.sceneswitching2
